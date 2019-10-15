@@ -48,11 +48,7 @@
 	  - [1288. 새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE) /	[code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1288.ipynb)  
 	  - [1284. 수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1284.ipynb)
 	  - [1204 [S/W 문제해결 기본] 1일차 - 최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1204.ipynb)
-4. **D3**
-5.  **D4**
-6.  **D5**
-7.  **D6**
-8.  **D7**
+
 ## Baekjoon Online Judge
 > Main Homepage : https://www.acmicpc.net/
  1. Still working
