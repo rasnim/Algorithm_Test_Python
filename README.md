@@ -40,20 +40,15 @@
 	  - [1961. 숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1961.ipynb)
 	  - [1959. 두 개의 숫자열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1959.ipynb)
 	  - [1954. 달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1954.ipynb)
-	  - [1948. 날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE) /
-	  - [1946. 간단한 압축 풀기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE) /
-	  - [1945. 간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE) /
-	  - [1940. 가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE) /
-	  - [1928. Base64 Decoder](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PR4DKAG0DFAUq&categoryId=AV5PR4DKAG0DFAUq&categoryType=CODE) /
-	  - [1288. 새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE) /
-	  - [1285. 아름이의 돌 던지기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18-stqI8oCFAZN&categoryId=AV18-stqI8oCFAZN&categoryType=CODE) /
-	  - [1284. 수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE) /
-	  - [1204 [S/W 문제해결 기본] 1일차 - 최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE) /
-4. **D3**
-5.  **D4**
-6.  **D5**
-7.  **D6**
-8.  **D7**
+	  - [1948. 날짜 계산기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1948.ipynb)
+	  - [1946. 간단한 압축 풀기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1946.ipynb)
+	  - [1945. 간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1945.ipynb)
+	  - [1940. 가랏! RC카!](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq&categoryId=AV5PjMgaALgDFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1940.ipynb)
+	  - [1928. Base64 Decoder](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PR4DKAG0DFAUq&categoryId=AV5PR4DKAG0DFAUq&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1928.ipynb)
+	  - [1288. 새로운 불면증 치료법](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE) /	[code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1288.ipynb)  
+	  - [1284. 수도 요금 경쟁](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1284.ipynb)
+	  - [1204 [S/W 문제해결 기본] 1일차 - 최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE) / [code](https://github.com/rasnim/Algorithm_Test_Python/blob/master/SW%20Expert%20Academy/D2/1204.ipynb)
+
 ## Baekjoon Online Judge
 > Main Homepage : https://www.acmicpc.net/
  1. Still working
